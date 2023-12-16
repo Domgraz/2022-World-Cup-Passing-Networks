@@ -1,0 +1,42 @@
+match_id,match_date,home_team,away_team,home_score,away_score,shot_outcome,player,team,player_id,timestamp,type,period,minute,X,Y
+3869151,2022-12-03,Argentina,Australia,2,1,Goal,Lionel Andrés Messi Cuccittini,Argentina,5503.0,2023-12-16 00:34:35.083,Shot,1,34,104.2,48.9
+3869151,2022-12-03,Argentina,Australia,2,1,Goal,Julián Álvarez,Argentina,29560.0,2023-12-16 00:11:41.079,Shot,2,56,110.4,50.3
+3869321,2022-12-09,Netherlands,Argentina,2,2,Goal,Nahuel Molina Lucero,Argentina,29201.0,2023-12-16 00:34:04.090,Shot,1,34,109.1,42.4
+3869321,2022-12-09,Netherlands,Argentina,2,2,Goal,Lionel Andrés Messi Cuccittini,Argentina,5503.0,2023-12-16 00:27:39.369,Shot,2,72,108.0,40.0
+3869321,2022-12-09,Netherlands,Argentina,2,2,Goal,Lionel Andrés Messi Cuccittini,Argentina,5503.0,2023-12-16 00:01:03.055,Shot,5,121,108.1,40.1
+3869321,2022-12-09,Netherlands,Argentina,2,2,Goal,Leandro Daniel Paredes,Argentina,16308.0,2023-12-16 00:02:39.449,Shot,5,122,108.1,40.1
+3869321,2022-12-09,Netherlands,Argentina,2,2,Goal,Gonzalo Ariel Montiel,Argentina,28263.0,2023-12-16 00:04:15.087,Shot,5,124,108.1,40.1
+3869321,2022-12-09,Netherlands,Argentina,2,2,Goal,Lautaro Javier Martínez,Argentina,11456.0,2023-12-16 00:07:42.063,Shot,5,127,108.1,40.1
+3869685,2022-12-18,Argentina,France,3,3,Goal,Lionel Andrés Messi Cuccittini,Argentina,5503.0,2023-12-16 00:22:24.114,Shot,1,22,108.0,40.0
+3869685,2022-12-18,Argentina,France,3,3,Goal,Ángel Fabián Di María Hernández,Argentina,2995.0,2023-12-16 00:35:22.647,Shot,1,35,111.8,32.1
+3869685,2022-12-18,Argentina,France,3,3,Goal,Kylian Mbappé Lottin,France,3009.0,2023-12-16 00:34:24.975,Shot,2,79,108.0,40.0
+3869685,2022-12-18,Argentina,France,3,3,Goal,Kylian Mbappé Lottin,France,3009.0,2023-12-16 00:35:59.025,Shot,2,80,104.8,30.1
+3869685,2022-12-18,Argentina,France,3,3,Goal,Lionel Andrés Messi Cuccittini,Argentina,5503.0,2023-12-16 00:02:58.079,Shot,4,107,116.6,43.0
+3869685,2022-12-18,Argentina,France,3,3,Goal,Kylian Mbappé Lottin,France,3009.0,2023-12-16 00:12:05.189,Shot,4,117,108.0,40.0
+3869685,2022-12-18,Argentina,France,3,3,Goal,Kylian Mbappé Lottin,France,3009.0,2023-12-16 00:00:13.386,Shot,5,120,108.1,40.1
+3869685,2022-12-18,Argentina,France,3,3,Goal,Lionel Andrés Messi Cuccittini,Argentina,5503.0,2023-12-16 00:01:02.191,Shot,5,121,108.1,40.1
+3869685,2022-12-18,Argentina,France,3,3,Goal,Paulo Bruno Exequiel Dybala,Argentina,5743.0,2023-12-16 00:02:27.184,Shot,5,122,108.1,40.1
+3869685,2022-12-18,Argentina,France,3,3,Goal,Leandro Daniel Paredes,Argentina,16308.0,2023-12-16 00:04:16.722,Shot,5,124,108.1,40.1
+3869685,2022-12-18,Argentina,France,3,3,Goal,Randal Kolo Muani,France,22097.0,2023-12-16 00:05:09.782,Shot,5,125,108.1,40.1
+3869685,2022-12-18,Argentina,France,3,3,Goal,Gonzalo Ariel Montiel,Argentina,28263.0,2023-12-16 00:05:57.883,Shot,5,125,108.1,40.1
+3857264,2022-11-30,Poland,Argentina,0,2,Goal,Alexis Mac Allister,Argentina,27886.0,2023-12-16 00:00:53.623,Shot,2,45,106.0,46.7
+3857264,2022-11-30,Poland,Argentina,0,2,Goal,Julián Álvarez,Argentina,29560.0,2023-12-16 00:21:57.855,Shot,2,66,106.0,33.5
+3857289,2022-11-26,Argentina,Mexico,2,0,Goal,Lionel Andrés Messi Cuccittini,Argentina,5503.0,2023-12-16 00:18:32.183,Shot,2,63,94.9,37.4
+3857289,2022-11-26,Argentina,Mexico,2,0,Goal,Enzo Fernandez,Argentina,38718.0,2023-12-16 00:41:39.636,Shot,2,86,106.5,22.8
+3869519,2022-12-13,Argentina,Croatia,3,0,Goal,Lionel Andrés Messi Cuccittini,Argentina,5503.0,2023-12-16 00:33:27.067,Shot,1,33,108.0,40.0
+3869519,2022-12-13,Argentina,Croatia,3,0,Goal,Julián Álvarez,Argentina,29560.0,2023-12-16 00:38:26.300,Shot,1,38,112.7,37.4
+3869519,2022-12-13,Argentina,Croatia,3,0,Goal,Julián Álvarez,Argentina,29560.0,2023-12-16 00:23:46.955,Shot,2,68,113.3,45.4
+3857300,2022-11-22,Argentina,Saudi Arabia,1,2,Goal,Lionel Andrés Messi Cuccittini,Argentina,5503.0,2023-12-16 00:09:15.590,Shot,1,9,108.0,40.0
+3857266,2022-11-26,France,Denmark,2,1,Goal,Kylian Mbappé Lottin,France,3009.0,2023-12-16 00:15:25.039,Shot,2,60,110.8,31.3
+3857266,2022-11-26,France,Denmark,2,1,Goal,Kylian Mbappé Lottin,France,3009.0,2023-12-16 00:40:09.953,Shot,2,85,117.8,36.5
+3869354,2022-12-10,England,France,1,2,Goal,Aurélien Djani Tchouaméni,France,10481.0,2023-12-16 00:16:22.902,Shot,1,16,92.5,43.5
+3869354,2022-12-10,England,France,1,2,Goal,Olivier Giroud,France,3604.0,2023-12-16 00:32:10.083,Shot,2,77,114.7,36.4
+3869552,2022-12-14,France,Morocco,2,0,Goal,Theo Bernard François Hernández,France,6704.0,2023-12-16 00:04:40.089,Shot,1,4,115.7,31.5
+3869552,2022-12-14,France,Morocco,2,0,Goal,Randal Kolo Muani,France,22097.0,2023-12-16 00:33:49.922,Shot,2,78,115.6,43.8
+3869152,2022-12-04,France,Poland,3,1,Goal,Olivier Giroud,France,3604.0,2023-12-16 00:43:28.199,Shot,1,43,105.6,32.3
+3869152,2022-12-04,France,Poland,3,1,Goal,Kylian Mbappé Lottin,France,3009.0,2023-12-16 00:28:56.875,Shot,2,73,104.8,28.6
+3869152,2022-12-04,France,Poland,3,1,Goal,Kylian Mbappé Lottin,France,3009.0,2023-12-16 00:45:05.776,Shot,2,90,106.2,25.2
+3857279,2022-11-22,France,Australia,4,1,Goal,Adrien Rabiot,France,3026.0,2023-12-16 00:26:02.241,Shot,1,26,111.6,42.0
+3857279,2022-11-22,France,Australia,4,1,Goal,Olivier Giroud,France,3604.0,2023-12-16 00:31:18.386,Shot,1,31,110.5,39.2
+3857279,2022-11-22,France,Australia,4,1,Goal,Kylian Mbappé Lottin,France,3009.0,2023-12-16 00:22:03.384,Shot,2,67,113.5,42.2
+3857279,2022-11-22,France,Australia,4,1,Goal,Olivier Giroud,France,3604.0,2023-12-16 00:25:50.608,Shot,2,70,113.5,42.6
